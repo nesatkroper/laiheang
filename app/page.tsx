@@ -8,7 +8,7 @@ import Contact from "@/components/contact";
 import Footer from "@/components/footer";
 
 export const metadata: Metadata = {
-  title: "Financial Professional Portfolio",
+  title: "Ho Laiheang",
   description:
     "Portfolio website for a bank teller and accountant professional",
 };

@@ -77,7 +77,7 @@ export default function Contact() {
                       <h4 className='text-sm font-medium text-gray-500 dark:text-gray-400'>
                         Email
                       </h4>
-                      <p className='font-medium'>contact@financialpro.com</p>
+                      <p className='font-medium'>laiheangho2@gamil.com</p>
                     </div>
                   </CardContent>
                 </Card>
@@ -91,7 +91,7 @@ export default function Contact() {
                       <h4 className='text-sm font-medium text-gray-500 dark:text-gray-400'>
                         Phone
                       </h4>
-                      <p className='font-medium'>(123) 456-7890</p>
+                      <p className='font-medium'>(+855) 96 266 0026</p>
                     </div>
                   </CardContent>
                 </Card>
@@ -105,7 +105,7 @@ export default function Contact() {
                       <h4 className='text-sm font-medium text-gray-500 dark:text-gray-400'>
                         Location
                       </h4>
-                      <p className='font-medium'>New York, NY</p>
+                      <p className='font-medium'>Siem Reap. Cambodia</p>
                     </div>
                   </CardContent>
                 </Card>
